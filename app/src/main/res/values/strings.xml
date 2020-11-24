@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PanditJi</string>
+    <string name="string1">Lorem ipsum dolor sit amet, albucius appareat persecuti ne quo, his id persecuti theophrastus. Cum enim magna repudiare in, autem dicunt eirmod sit ne, no tantas praesent deseruisse mei. Fugit utamur mei an, wisi lobortis his ad. Mel </string>
+    <string name="string2">Lorem ipsum dolor sit amet, albucius appareat persecuti ne quo, his id persecuti theophrastus. Cum enim magna repudiare in, autem dicunt eirmod sit ne, no tantas praesent deseruisse mei. Fugit utamur mei an, wisi lobortis his ad. Mel </string>
+    <string name="string3">Lorem ipsum dolor sit amet, albucius appareat persecuti ne quo, his id persecuti theophrastus. Cum enim magna repudiare in, autem dicunt eirmod sit ne, no tantas praesent deseruisse mei. Fugit utamur mei an, wisi lobortis his ad. Mel </string>
+    <string name="heading1">Heading 1</string>
+    <string name="heading2">Heading 2</string>
+    <string name="heading3">Heading 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
